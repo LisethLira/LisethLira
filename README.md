@@ -4,14 +4,14 @@
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 
 
-![Linkedin: liseth-lira](https://www.linkedin.com/in/liseth-lira/)
-![GitHub: LisethLira](https://github.com/LisethLira)
+[Linkedin: liseth-lira](https://www.linkedin.com/in/liseth-lira/)</br>
+[GitHub: LisethLira](https://github.com/LisethLira)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Liseth = {
   🙋 pronouns: "she" | "her",
   💻 code: [Javascript, HTML, CSS],
   🌱 learning: [React, Node.js],
