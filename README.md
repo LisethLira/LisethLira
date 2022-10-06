@@ -3,10 +3,10 @@
 <p>Front - End Developer <img src="https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611uxy2ulaxgm0r9yk90dsd66zy49e72h9hhofn3qp2&amp;rid=giphy.gif&amp;ct=s" width="23" ></p> 
 
 
-#### Linkedin
+#### ✔️ Linkedin
 [liseth-lira](https://www.linkedin.com/in/liseth-lira/)</br>
 
-#### Github
+#### ✔️ Github
 [LisethLira](https://github.com/LisethLira)
 
 
