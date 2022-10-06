@@ -20,7 +20,7 @@
 const Liseth = {
   🙋 pronouns: "she" | "her",
   💻 code: [Javascript, HTML, CSS],
-  🌱 learning: [React, Node.js],
+  🌱 learning: [React, Node.js, Firebase],
 }
 ```
 
