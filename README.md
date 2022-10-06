@@ -1,12 +1,11 @@
 ### Hi there, I'm Liseth 👋😄💛💻
 
-<h2> Hi there, I'm Liseth! <img src="https://giphy.com/embed/J6VwCNMsCvy8itOXkX" width="50"></h2>
+<h2> Hi there, I'm Liseth! <img src="https://media2.giphy.com/media/J6VwCNMsCvy8itOXkX/giphy.gif?cid=790b761109b08be81a91dbc7d608d393c714e9ec4f50c395&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
-<iframe src="https://giphy.com/embed/J6VwCNMsCvy8itOXkX" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/bunny-rabbit-soft-J6VwCNMsCvy8itOXkX"></a>
 
 
-[![Linkedin: liseth-lira](https://www.linkedin.com/in/liseth-lira/)
-[![GitHub LisethLira](https://github.com/LisethLira)
+![Linkedin: liseth-lira](https://www.linkedin.com/in/liseth-lira/)
+![GitHub: LisethLira](https://github.com/LisethLira)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
