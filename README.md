@@ -1,6 +1,6 @@
 <h2><b> Hi there, I'm Liseth! </b> <img src="https://media2.giphy.com/media/J6VwCNMsCvy8itOXkX/giphy.gif?cid=790b761109b08be81a91dbc7d608d393c714e9ec4f50c395&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="430">
-<p> Front - End Developer  <img src="https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611uxy2ulaxgm0r9yk90dsd66zy49e72h9hhofn3qp2&amp;rid=giphy.gif&amp;ct=s" width="20" ></p> 
+<p><img src="https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611uxy2ulaxgm0r9yk90dsd66zy49e72h9hhofn3qp2&amp;rid=giphy.gif&amp;ct=s" width="25" >  Front - End Developer</p> 
 
 
 #### Linkedin
